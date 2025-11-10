@@ -1,0 +1,6 @@
+{
+  "110001": { "place": "New Delhi GPO", "state": "Delhi", "lat": 28.63229, "lng": 77.21997 },
+  "400001": { "place": "Mumbai GPO", "state": "Maharashtra", "lat": 18.93781, "lng": 72.8354 },
+  "560001": { "place": "Bangalore GPO", "state": "Karnataka", "lat": 12.9716, "lng": 77.5946 },
+  "700001": { "place": "Kolkata GPO", "state": "West Bengal", "lat": 22.5726, "lng": 88.3639 }
+}
